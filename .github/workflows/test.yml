@@ -8,7 +8,7 @@
 8       - uses: actions/checkout@v2    
 9       - name: build and test
 10         run: |
-11           rsync -av ./ /root/ros2_ws/src/mypkg/    
+11           rsync -av ./ /root/ros2_ws/src/mypkg    
 12           cd /root/ros2_ws
 13           rosdep update                                            
 14           rosdep install -i --from-path src --rosdistro humble -y  
