@@ -18,19 +18,21 @@
 
 #### 実行方法
 
-*    ros2 run mypkg talker
-* で実行し、もう一つの端末を開いて
-*    ros2 run mypkg listener
+    ros2 run mypkg talker
+    で実行し、もう一つの端末を開いて
+    ros2 run mypkg listener
 
 ##### 必要なソフトウェア
 * os
-　   * Ubuntu22.04
+　 
+     * Ubuntu22.04
 
 * ROS2
      * テスト済み : Humble
 
 * Python
-       * テスト済み : 3.7~3.10
+       
+         * テスト済み : 3.7~3.10
 
 ###### ライセンス
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
