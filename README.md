@@ -39,4 +39,4 @@
 * © 2022 Yosuke sakamoto
 
 
->>>>>>> lesson10
+
