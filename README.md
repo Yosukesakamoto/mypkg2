@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# mypkg2
-a
-=======
+![test](https://github.com/Yosukesakamoto/mypkg2/actions/workflows/test.yml/badge.svg)
 # mypkg
   ロボットシステム学のROS2パッケージ
 
