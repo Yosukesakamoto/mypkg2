@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Yosuke Sakamoto　　　　
+# SPDX-License-Identifier: BSD-3-Claus
+   
 import rclpy                     
 from rclpy.node import Node      
 from std_msgs.msg import Int16

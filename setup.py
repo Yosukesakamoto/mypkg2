@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Yosuke Sakamoto　　　　
+# SPDX-License-Identifier: BSD-3-Claus
+
 from setuptools import setup
 import os
 from glob import glob
